@@ -1,6 +1,5 @@
 # Complete Step by Step Guide
 
-## Author: Wajid Ali
 
 ## Create React App
 1. npx create-react-app redux-todos-app
